@@ -76,3 +76,10 @@ docker-compose ps
 docker-compose up --scale web=5 -d
 ==========================================================
 ```
+
+
+
+--------------------------------------------------------------------------------------
+
+作者赞赏码：<br>
+<img src="https://download.swarmeth.org/zan.jpg" width = "400" height = "400" alt="点赞" align=center />
