@@ -72,7 +72,7 @@ docker-compose images
 docker-compose exec wordpress bash
 57. 查看运行的容器：
 docker-compose ps
-57. 复制扩展运行的容器,例如web：
+58. 复制扩展运行的容器,例如web：
 docker-compose up --scale web=5 -d
 ==========================================================
 ```
