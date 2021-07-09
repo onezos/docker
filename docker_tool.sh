@@ -147,7 +147,7 @@ function docker_command_display
     echo 'docker-compose exec wordpress bash' 
     echo '57. 查看运行的容器：'
     echo 'docker-compose ps'  
-    echo '57. 复制扩展运行的容器,例如web：'
+    echo '58. 复制扩展运行的容器,例如web：'
     echo 'docker-compose up --scale web=5 -d' 
     echo '=========================================================='
 }
